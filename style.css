@@ -1,0 +1,19 @@
+body {
+    background-color: #004030;
+}
+.topMenu {
+    background-color: #004030;
+}
+.topMenu a {
+    padding : 0px 15px;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
+}
+.middle{
+    background-image: url('murphys-new-background.jpeg');
+}
